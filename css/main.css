@@ -1,0 +1,60 @@
+#loginForm
+ {
+    margin-left:25%;
+    padding-top:6%;
+    margin-top:0%;   
+  }
+  h3,h4 {
+    font-weight: bold !important;
+  }
+  th, tr, table, thead, tbody{
+    cursor: pointer !important;
+  }
+  .ime :hover {
+    background-color: #27556C !important;
+  }
+
+  p {
+    font-size: 20px !important;
+  }
+  #logintext 
+  {
+    padding-top:0%;
+    margin-top:0%;
+    padding-bottom:5%;
+    text-align:center;
+
+  }
+
+  .dugmic
+  {
+      background-color:#27556C;
+      color:white !important;
+    
+  }
+
+  .dugmic:hover
+   {
+      background-color:darkcyan;
+      color: black;
+
+      
+  }
+
+  body
+   {
+    overflow-x:none;
+    overflow-x: hidden;
+    background-color:#27556C;
+    width: 100%;
+    height: 100%;
+  }
+
+  #tabela
+   {
+    margin-left:25%;
+    padding-top:6%;
+    margin-top:0%;
+  }
+
+ 
